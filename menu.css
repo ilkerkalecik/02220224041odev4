@@ -7,7 +7,7 @@
     transition: 300ms ease-in-out;
     text-decoration: none;
 
-    cursor: url("images/imlec/cursor.cur")
+    cursor: url("images/imlec/cursor.cur"),auto;
  
 }
 
