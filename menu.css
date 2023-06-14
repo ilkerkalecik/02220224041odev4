@@ -6,14 +6,9 @@
     text-decoration: none;
     transition: 300ms ease-in-out;
     text-decoration: none;
-<<<<<<< HEAD
-    cursor: url("images/imlec/cursor.cur")
-    , auto;
-    
-=======
->>>>>>> 85d67c4c90bb23bb1c5b038436c6025fc9b124c6
 
-    
+    cursor: url("images/imlec/cursor.cur")
+ 
 }
 
 body {
@@ -22,11 +17,9 @@ body {
     overflow-y: scroll;
     width: 100%;
     font-size: 5vh;
-<<<<<<< HEAD
-    cursor: url(images/2021\ Twitter\ logo\ -\ blue.png),auto;
-=======
 
->>>>>>> 85d67c4c90bb23bb1c5b038436c6025fc9b124c6
+    cursor: url(images/2021\ Twitter\ logo\ -\ blue.png),auto;
+
     
 }
 
